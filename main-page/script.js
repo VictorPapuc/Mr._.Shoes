@@ -1,0 +1,1 @@
+document.querySelector('.message').textContent='Browser from our  fine collection of favorite Favors'
